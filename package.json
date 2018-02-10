@@ -31,7 +31,7 @@
     "readline-sync": "*",
     "xml2js": "*",
     "request": "*",
-    "deasync": "*"  
+    "deasync": "*"
   },
   "devDependencies": {
     "chai": "^3.5.0",
