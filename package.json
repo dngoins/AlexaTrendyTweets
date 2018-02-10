@@ -15,8 +15,9 @@
     "test": "./node_modules/.bin/mocha",
     "coverage": "./node_modules/.bin/istanbul cover ./node_modules/.bin/_mocha -- -R spec",
     "coverage_local": "istanbul cover node_modules/mocha/bin/_mocha",
-    "danger": "./node_modules/.bin/danger"
-  },
+    "danger": "./node_modules/.bin/danger",
+    "start": "node app"
+   },
   "license": "MIT",
   "dependencies": {
     "alexa-app": "^3.2.0",
@@ -30,7 +31,7 @@
     "readline-sync": "*",
     "xml2js": "*",
     "request": "*",
-    "deasync": "*"
+    "deasync": "*"  
   },
   "devDependencies": {
     "chai": "^3.5.0",
