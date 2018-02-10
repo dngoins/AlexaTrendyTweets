@@ -1,0 +1,17 @@
+{
+  "name": "alexa-trendy-tweets",
+  "version": "0.0.1",
+  "description": "Ask Alexa About Latest Trending Tweets",
+  "main": "app.js",
+  "author": {
+    "name": "TSE"
+  },
+  "dependencies": {
+    "alexa-app": "^2.1.0",
+    "chatskills": "*",
+    "readline-sync": "*",
+    "xml2js": "*",
+    "request": "*",
+    "deasync": "*"
+  }
+}
