@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2020
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "AlexaTrendyTweets", "AlexaTrendyTweets\AlexaTrendyTweets.njsproj", "{3F45CE8B-D211-41A5-AC3F-DC3D0E86C988}"
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "AlexaTrendyTweets", "AlexaTrendyTweets.njsproj", "{3F45CE8B-D211-41A5-AC3F-DC3D0E86C988}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
